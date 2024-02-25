@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2 {
+    font-weight: bold;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  button {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #ddd;
+  }
+
+  .sistema-envio {
+  margin: 20px auto;
+  width: 80%;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.estado-servicio {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.disponible {
+  color: green;
+}
+
+.no-disponible {
+  color: red;
+}
+
+.toggle-button {
+    float: right;
+    margin-right: 20px;
+    background-color: #CCC; 
+    color: #fff; 
+}
+  
+  
+.toggle-button:active {
+    background-color: rgb(247, 176, 11);
+}
+  
+  
+.botones {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.boton {
+  margin: 0 10px;
+}
+
+.boton-gris {
+  background-color: #ccc;
+}
+
+.boton-rojo {
+  background-color: red;
+}
+
+  
